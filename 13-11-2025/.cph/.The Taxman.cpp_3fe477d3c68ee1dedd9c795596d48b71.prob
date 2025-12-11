@@ -1,0 +1,1 @@
+{"name":"Local: The Taxman","url":"f:\\ICPC\\13-11-2025\\The Taxman.cpp","tests":[{"id":1763145128952,"input":"4\n500.50\n8028.40\n33504.20\n75000.00\n","output":"15002.50\n51321\n110007.00\n200000.0000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ICPC\\13-11-2025\\The Taxman.cpp","group":"local","local":true}

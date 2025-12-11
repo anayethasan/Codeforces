@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"f:\\ICPC\\15-11-2025\\C.cpp","tests":[{"id":1763207837003,"input":"2\n2\n1 2\n3\n1 3\n2 1","output":"1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ICPC\\15-11-2025\\C.cpp","group":"local","local":true}

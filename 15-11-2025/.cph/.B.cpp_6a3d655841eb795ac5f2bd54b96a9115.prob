@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"f:\\ICPC\\15-11-2025\\B.cpp","tests":[{"id":1763203133096,"input":"5\n9 3 3 2\n11 2 5 1\n10 5 4 3\n26 1 5 3\n26 26 26 26\n","output":"YES\nYES\nYES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ICPC\\15-11-2025\\B.cpp","group":"local","local":true}
