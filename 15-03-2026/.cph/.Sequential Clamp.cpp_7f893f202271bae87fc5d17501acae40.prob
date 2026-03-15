@@ -1,0 +1,1 @@
+{"name":"Local: Sequential Clamp","url":"f:\\ICPC\\15-03-2026\\Sequential Clamp.cpp","tests":[{"id":1773598279558,"input":"3\n2\n1 5\n2 6\n3\n4 8\n5 6\n2 2\n4\n4 8\n5 6\n5 7\n7 8","output":"5\n2\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ICPC\\15-03-2026\\Sequential Clamp.cpp","group":"local","local":true}
