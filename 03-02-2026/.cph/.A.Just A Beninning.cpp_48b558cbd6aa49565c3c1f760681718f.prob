@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\ICPC\\03-02-2026\\A.Just A Beninning.cpp","tests":[{"id":1778823359539,"input":"7\nYES\nyES\nYes\nYeS\nNOO\nYas\nXES","output":"YES\nYES\nYES\nYES\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ICPC\\03-02-2026\\A.Just A Beninning.cpp","group":"local","local":true}
