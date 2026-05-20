@@ -1,3 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+/************************************************************
+*                                                          *
+*  "If talent doesn't work, believe in yourself and        *
+*   do hard work. Allah will give you the best gift."      *
+*                                                          *
+*************************************************************/
+
 class Solution {
 public:
     bool vis[305][3005];
